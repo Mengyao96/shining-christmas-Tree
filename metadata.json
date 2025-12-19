@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Particle Tree",
+  "description": "A WebGL interactive Christmas tree made of stardust particles. Control the expansion with your hand gestures or mouse, make wishes, and hang photo memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
